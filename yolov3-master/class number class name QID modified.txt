@@ -1,0 +1,69 @@
+0.person-Q215627
+1.bicycle-Q11442
+2.car-Q1420
+3.motorbike-Q34493
+4.aeroplane-Q197
+5.bus-Q5638
+6.train-Q870
+7.truck-Q43193
+8.boat-Q35872
+9.traffic light-Q8004
+10.fire hydrant-Q634299
+11.stop sign-Q250429
+12.parking meter-Q953960
+13.bench-Q204776
+14.bird-Q5113
+15.cat-Q146
+16.dog-Q144
+17.horse-Q726
+18.sheep-Q7368
+19.cow-Q830
+20.elephant-Q7378
+21.bear-Q30090244
+22.zebra-Q32789
+23.giraffe-Q862089
+24.backpack-Q5843
+25.umbrella-Q41607
+26.handbag-Q467505
+27.tie-Q44416
+28.suitcase-Q200814
+30.skis-Q172226
+33.kite-Q42861
+36.skateboard-Q15783
+37.surfboard-Q457689
+38.tennis racket-Q153362
+39.bottle-Q80228
+40.wine glass-Q1531435
+41.cup-Q81727
+42.fork-Q81881
+43.knife-Q32489
+44.spoon-Q81895
+45.bowl-Q153988
+46.banana-Q503
+47.apple-Q89
+48.sandwich-Q28803
+49.orange-Q13191
+51.carrot-Q81
+53.pizza-Q177
+55.cake-Q13276
+56.chair-Q15026
+57.sofa-Q131514
+58.pottedplant-Q203834
+59.bed-Q42177
+61.toilet-Q7857
+62.tvmonitor-Q289
+63.laptop-Q3962
+64.mouse-Q7987
+65.remote-Q185091
+66.keyboard-Q250
+67.cell phone-Q17517
+69.oven-Q36539
+71.sink-Q140565
+72.refrigerator-Q37828
+73.book-Q571
+74.clock-Q376
+75.vase-Q191851
+76.scissors-Q40847
+77.teddy bear-Q213477
+79.toothbrush-Q134205
+80.HouseMouse-Q83310
